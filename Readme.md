@@ -50,4 +50,4 @@ You could also add another Gaussian splat file as background. The file sequence 
     - [Assets/DynamicRendering/Scripts](dynamic-rendering-unity-multiple-mesh/Assets/DynamicRendering/Scripts): script to animate mesh sequence and gaussian splat file sequence and basic UI display for FPS.
 
 
-<img src="pic\GS_mesh_and_scene.png" alt="DemoScene" /> 
+<img src="pic\GS_mesh_and_scene.png" alt="Multiple" /> 
