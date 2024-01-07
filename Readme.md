@@ -31,7 +31,7 @@ The unity project to render the simplified the mesh, our target platform is Meta
     - [Assets/DynamicRendering/Shaders](dynamic-rendering-unity/Assets/DynamicRendering/Shaders) and [Assets/dynamic-rendering-unity/Materials](dynamic-rendering-unity/Assets/DynamicRendering/Materials): Custom materials for vertex color only and shaders defined by shader graph.
 
 
-<img src="pic\demo_scene.png" alt="DemoScene" /> 
+<img src="pic\demo_scene_GS.png" alt="DemoScene" /> 
 
 ## dynamic-rendering-unity-multiple-mesh
 This scene is not shown in our project demo and report. We develop it to check the possibility of load multiple Gaussian splating files and display them through Quest Link.
